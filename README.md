@@ -2,6 +2,9 @@
 
 ## Requirement doesn't work, also use Python 3.7
 
+The requirement from original repo doesnt't work correctly, I managed to make it work but didn't record it so keep fixing any error that comes from pip / train run
+
+## End of fork note
 
 PyTorch implementation of [Natural TTS Synthesis By Conditioning
 Wavenet On Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf). 
