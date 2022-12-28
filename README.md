@@ -1,4 +1,7 @@
-# Tacotron 2 (without wavenet)
+# Tacotron 2 (without wavenet) CPU ONLY
+
+## Requirement doesn't work, also use Python 3.7
+
 
 PyTorch implementation of [Natural TTS Synthesis By Conditioning
 Wavenet On Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf). 
